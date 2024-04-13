@@ -1,32 +1,65 @@
-PetLife
-Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB.
-Estude esse projeto em formato de vídeo clicando aqui.
+Título do projeto
+Um parágrafo da descrição do projeto vai aqui
 
-Tecnologias   |    Projeto   |    Layout   |    Licença
+🚀 Começando
+Essas instruções permitirão que você obtenha uma cópia do projeto em operação na sua máquina local para fins de desenvolvimento e teste.
 
-License
+Consulte Implantação para saber como implantar o projeto.
 
+📋 Pré-requisitos
+De que coisas você precisa para instalar o software e como instalá-lo?
 
-projeto DevLinks
+Dar exemplos
+🔧 Instalação
+Uma série de exemplos passo-a-passo que informam o que você deve executar para ter um ambiente de desenvolvimento em execução.
 
-🚀 Tecnologias
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+Diga como essa etapa será:
 
-HTML e CSS
-JavaScript
-Git e Github
-Figma
-💻 Projeto
-O DevLinks é um agregador de links para usar como cartão de visitas online.
+Dar exemplos
+E repita:
 
-Acesse o projeto finalizado, online
+Até finalizar
+Termine com um exemplo de como obter dados do sistema ou como usá-los para uma pequena demonstração.
 
-Assistir aulas
+⚙️ Executando os testes
+Explicar como executar os testes automatizados para este sistema.
 
-🔖 Layout
-Você pode visualizar o layout do projeto através DESSE LINK. É necessário ter conta no Figma para acessá-lo.
+🔩 Analise os testes de ponta a ponta
+Explique que eles verificam esses testes e porquê.
 
-📝 Licença
-Esse projeto está sob a licença MIT.
+Dar exemplos
+⌨️ E testes de estilo de codificação
+Explique que eles verificam esses testes e porquê.
 
-Feito com ♥ by Rocketseat 👋 Participe da nossa comunidade! 
+Dar exemplos
+📦 Implantação
+Adicione notas adicionais sobre como implantar isso em um sistema ativo
+
+🛠️ Construído com
+Mencione as ferramentas que você usou para criar seu projeto
+
+Dropwizard - O framework web usado
+Maven - Gerente de Dependência
+ROME - Usada para gerar RSS
+🖇️ Colaborando
+Por favor, leia o COLABORACAO.md para obter detalhes sobre o nosso código de conduta e o processo para nos enviar pedidos de solicitação.
+
+📌 Versão
+Nós usamos SemVer para controle de versão. Para as versões disponíveis, observe as tags neste repositório.
+
+✒️ Autores
+Mencione todos aqueles que ajudaram a levantar o projeto desde o seu início
+
+Um desenvolvedor - Trabalho Inicial - umdesenvolvedor
+Fulano De Tal - Documentação - fulanodetal
+Você também pode ver a lista de todos os colaboradores que participaram deste projeto.
+
+📄 Licença
+Este projeto está sob a licença (sua licença) - veja o arquivo LICENSE.md para detalhes.
+
+🎁 Expressões de gratidão
+Conte a outras pessoas sobre este projeto 📢;
+Convide alguém da equipe para uma cerveja 🍺;
+Um agradecimento publicamente 🫂;
+etc.
+⌨️ com ❤️ por Armstrong Lohãns 😊

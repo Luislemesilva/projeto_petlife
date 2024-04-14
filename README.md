@@ -11,6 +11,11 @@ O projeto se consinste no Front-End de um site veterinario, no qual apresenta se
 O projeto foi construido a partir das tecnologias HTML, CSS e JS
 
 
+## :memo: Licença
+
+Esse projeto está sob a licença MIT.
+
+
 ## ✒️ Autores
 
 Projeto realizado por Luis Eduardo Leme Silva, no curso da OneBiteCode

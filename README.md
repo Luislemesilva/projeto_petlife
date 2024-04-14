@@ -18,7 +18,7 @@ O projeto foi construido a partir das tecnologias HTML, CSS e JS
 
 O projeto se consinste no Front-End de um site veterinario, no qual apresenta seus recursos e informações para clientes.
 
-- [Acesse o projeto finalizado](https://maykbrito.github.io/devlinks)
+- [Acesse o projeto finalizado](https://luislemesilva.github.io/projeto_petlife/)
 
   
 

@@ -11,14 +11,20 @@ O projeto se consinste no Front-End de um site veterinario, no qual apresenta se
 O projeto foi construido a partir das tecnologias HTML, CSS e JS
 
 
-## :memo: Licença
+## 💻 Projeto
 
-Esse projeto está sob a licença MIT.
+O DevLinks é um agregador de links para usar como cartão de visitas online.
+
+- [Acesse o projeto finalizado, online](https://maykbrito.github.io/devlinks)
 
 
 ## ✒️ Autores
 
 Projeto realizado por Luis Eduardo Leme Silva, no curso da OneBiteCode
 
-
 ⌨️ com dedicação por [Luis Eduardo Leme Silva](https://gist.github.com/Luislemesilva) 😎
+
+
+## :memo: Licença
+
+Esse projeto está sob a licença MIT.
